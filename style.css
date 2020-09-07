@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+:root {
+    --primary-color:#3b5998;
+    --secundary-color:#00A300;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+body {
+    background-color: #f5f5f5;
+    font-family: 'Roboto', sans-serif;
+}
+
+.form {
+    background-color: white; 
+    height: 391px 311px;
+
+/* espaçamento ao centro */
+margin: 40px;
+padding-bottom: 24px;
+padding-top: 10px;
+
+}
