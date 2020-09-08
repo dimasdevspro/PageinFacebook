@@ -1,2 +1,2 @@
 # PageinFacebook
-Copiando página do Face - Login e Cadastro
+Fake página do Face - Login e Cadastro
