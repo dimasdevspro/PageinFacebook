@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url();
 
 :root {
     --primary-color:#3b5998;
@@ -29,6 +29,14 @@ margin-left: 800px;
 margin-right: 300px;
 }
 
-.placeholder {
-    
+.links {
+    color: #1877f2;
+    font-size: 14px;
+    font-weight: 500px;
+}
+
+.card {
+    background-color: white;
+    width: 800px;
+    min-width: 400px;
 }
